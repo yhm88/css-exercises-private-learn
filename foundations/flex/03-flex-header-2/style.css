@@ -46,3 +46,28 @@ a {
 ul {
   list-style-type: none;
 }
+
+.header {
+  display: flex;
+  padding: 8px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  gap: 16px;
+  padding: 0;
+}
+
+.button_img {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.logo_links {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
